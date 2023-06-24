@@ -14,6 +14,18 @@
       "31" : {
         "state" : "disabled"
       }
+      "1" : {
+        "state" : "enabled"
+      }
+      "2" : {
+        "state" : "enabled"
+      }
+      "3" : {
+        "state" : "enabled"
+      }
+      "4" : {
+        "state" : "enabled"
+      }
     }
   }
 }
