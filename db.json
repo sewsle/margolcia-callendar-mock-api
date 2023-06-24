@@ -3,7 +3,15 @@
     "name": "Lipiec"
     "year": "2023"
     "days": {
-      
+      {
+        "num": 1
+        "state": "enabled"
+        "hours": {
+          "10:00 - 12:00" : {
+            "state" : "taken"
+          }    
+        }
+      }
     }
   }
 }
