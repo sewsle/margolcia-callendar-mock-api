@@ -1,16 +1,18 @@
 {
-  "month": {
-    "name": "Lipiec"
-    "year": "2023"
-    "days": {
-      {
-        "num": 1
-        "state": "enabled"
-        "hours": {
-          "10:00 - 12:00" : {
-            "state" : "taken"
-          }    
-        }
+  "month_label" : "Lipiec 2023"
+  "actual_date" : "01.07.2023"
+  "prev_date" : "30.06.2023"
+  "next_date" : "02.07.2023"
+  "weeks" : {
+    {
+      "29" : {
+        "state" : "disabled"
+      }
+      "30" : {
+        "state" : "disabled"
+      }
+      "31" : {
+        "state" : "disabled"
       }
     }
   }
