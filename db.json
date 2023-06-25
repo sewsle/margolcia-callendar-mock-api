@@ -1,31 +1,29 @@
 {
-  "month_label" : "Lipiec 2023"
-  "actual_date" : "01.07.2023"
-  "prev_date" : "30.06.2023"
-  "next_date" : "02.07.2023"
-  "weeks" : {
-    {
-      "29" : {
-        "state" : "disabled"
-      }
-      "30" : {
-        "state" : "disabled"
-      }
-      "31" : {
-        "state" : "disabled"
-      }
-      "1" : {
-        "state" : "enabled"
-      }
-      "2" : {
-        "state" : "enabled"
-      }
-      "3" : {
-        "state" : "enabled"
-      }
-      "4" : {
-        "state" : "enabled"
-      }
-    }
-  }
+	"month_label": "Lipiec 2023",
+	"actual_date": "01.07.2023",
+	"prev_date": "30.06.2023",
+	"next_date": "02.07.2023",
+	"weeks": [{
+		"29": {
+			"state": "disabled"
+		},
+		"30": {
+			"state": "disabled"
+		},
+		"31": {
+			"state": "disabled"
+		},
+		"1": {
+			"state": "enabled"
+		},
+		"2": {
+			"state": "enabled"
+		},
+		"3": {
+			"state": "enabled"
+		},
+		"4": {
+			"state": "enabled"
+		}
+	}]
 }
